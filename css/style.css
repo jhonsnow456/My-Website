@@ -75,6 +75,9 @@ p{
 .cta:hover {
 	color: white;
 	background-color: #0f990f;
+	box-shadow: 0 0 10px #30d630, 
+		0 0 10px #30d630, 
+		0 0 10px #30d630;
 }
 
 .brand h1 {
